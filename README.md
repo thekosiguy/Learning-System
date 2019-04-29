@@ -1,2 +1,2 @@
 # 303COM Project: Learning-System
-Web-based E-Learning tool
+Web-based e-Learning tool
